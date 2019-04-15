@@ -1,1 +1,1 @@
-.git #sportresults
+#sports results
